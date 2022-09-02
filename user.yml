@@ -1,2 +1,6 @@
 server:
- port:1118
+  port: 19000
+
+spring:
+  application:
+    name: CONFIG-SERVER
