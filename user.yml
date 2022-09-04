@@ -7,6 +7,6 @@ spring:
 
 property:
     user:
-        name: chad
+        name: peter
 
   
